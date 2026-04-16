@@ -1,2 +1,2 @@
 # series-temporais
-Um estudo sobre séries temporais didáticamentes 
+Um estudo sobre séries temporais
