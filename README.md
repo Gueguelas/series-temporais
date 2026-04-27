@@ -35,3 +35,4 @@ Foi usado o modelo **AutoReg** (autoregressivo) nas séries estacionárias. O pr
 2. Busca do melhor lag (1 a 30) minimizando MSE no teste
 3. Treino com o lag escolhido
 4. Avaliação com MAE e RMSE
+5. Avaliação de resíduos com Ljung Box
